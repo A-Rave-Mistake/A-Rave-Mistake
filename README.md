@@ -5,12 +5,12 @@ I'm currently learning and getting good at Java but mostly I'm a hobbyist game d
 I mostly focus on creating low-spec games so everybody gets to play no matter their gear, and I'm also experimenting with retro graphics to unleash their full potential.  
 I'm also a 3D modeller in my spare time and same as with game dev - I enjoy doing low poly art.  
   
-You can find me here:  
+💬 You can find me here:  
 https://twitter.com/snacks_fancy  
 https://www.artstation.com/fancysnacks  
   
   
-I'm interested in bettering my skills and gaining experience, whether it's by jobs, internships, community projects or collabs. Ask me ヽ༼ຈل͜ຈ༽ﾉ
+➕ I'm interested in bettering my skills and gaining experience, whether it's by jobs, internships, community projects or collabs. Ask me ヽ༼ຈل͜ຈ༽ﾉ
 
 <!---
 FancySnacks/FancySnacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
