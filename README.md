@@ -8,6 +8,7 @@ I'm also a 3D modeller in my spare time and same as with game dev - I enjoy doin
 💬 You can find me here:  
 https://twitter.com/snacks_fancy  
 https://www.artstation.com/fancysnacks  
+https://fancysnacks.itch.io/  
   
   
 ➕ I'm interested in bettering my skills and gaining experience, whether it's by jobs, internships, community projects or collabs.  
