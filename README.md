@@ -10,7 +10,8 @@ https://twitter.com/snacks_fancy
 https://www.artstation.com/fancysnacks  
   
   
-➕ I'm interested in bettering my skills and gaining experience, whether it's by jobs, internships, community projects or collabs. Ask me ヽ༼ຈل͜ຈ༽ﾉ
+➕ I'm interested in bettering my skills and gaining experience, whether it's by jobs, internships, community projects or collabs.  
+Ask me ヽ༼ຈل͜ຈ༽ﾉ  
 
 <!---
 FancySnacks/FancySnacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
