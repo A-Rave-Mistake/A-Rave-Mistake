@@ -1,9 +1,9 @@
 👋 **Hi, I’m @FancySnacks**  
-I’m a guy who really likes Computer Science. I'm interested in various topics: backend programming, 3D graphics, game dev/design, robotics and graphic design.  
+I’m a guy who really likes Computer Science. I'm interested in various topics: programming, game dev/design, 3D graphics and graphic design.  
   
-I'm currently learning Java and Python. I'm getting good at full stack web development but I'm also a hobbyist game deveoper with a mission to create abstract, artful and fun games.  
-I mostly focus on creating low-spec games so everybody gets to play no matter their gear, and I'm also experimenting with retro graphics to unleash their full potential.  
-And I'm 3D modeller too in my spare time and same as with game dev - I enjoy doing low poly art.  
+I'm currently learning Python. I'm getting good at full stack web development. You might also know me as an hobbyist game deveoper with a mission to create abstract, unusual and fun games.  
+I mostly focus on creating low-spec games so everybody gets to play no matter their specs, and I'm also experimenting with retro graphics to unleash their full potential.  
+
   
 💬 You can find me here:  
 https://twitter.com/snacks_fancy  
