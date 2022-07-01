@@ -1,4 +1,4 @@
-👋 **Hi, I’m @FancySnacks**  / Adrian Urbaniak
+👋 **Hi, I’m @FancySnacks**  / Adrian Urbaniak  
 I’m a CS nerd, self-learning programmer and hobbyist game dev.
   
 🌱 I'm currently learning Python, it's frameworks and fullstack development. In spare time I experiment around in Unreal Engine 4. My mission is to create abstract, unusual, creative and fun games.  
