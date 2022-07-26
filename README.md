@@ -7,13 +7,13 @@ I’m a CS nerd, self-learning programmer and hobbyist game dev.
 As a hobby I also experiment around in Unreal Engine 4. My mission is to create abstract, unusual, creative and fun games.  
 I mostly focus on creating low-spec games so everybody gets to play no matter their specs, and I'm also experimenting with retro graphics a lot because I think there's so much potential in them.  
   
-
   
+<!---  
 💬 You can find me here:  
 https://twitter.com/snacks_fancy  
 https://www.artstation.com/fancysnacks  
 https://fancysnacks.itch.io/  
-  
+--->  
   
   
 ➕ I'm interested in bettering my skills and gaining experience, whether it's by jobs, internships, community projects or collabs.   
