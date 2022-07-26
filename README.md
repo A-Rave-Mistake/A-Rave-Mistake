@@ -14,8 +14,7 @@ https://fancysnacks.itch.io/
   
   
   
-➕ I'm interested in bettering my skills and gaining experience, whether it's by jobs, internships, community projects or collabs.  
-Ask me ヽ༼ຈل͜ຈ༽ﾉ   
+➕ I'm interested in bettering my skills and gaining experience, whether it's by jobs, internships, community projects or collabs.   
   
   
   
