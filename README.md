@@ -1,4 +1,4 @@
-👋 **Hi, I’m @FancySnacks**  / Adrian Urbaniak  
+👋 **Hi, I’m Adrian**
 I’m a CS nerd, self-learning programmer and hobbyist game dev.  
   
   
