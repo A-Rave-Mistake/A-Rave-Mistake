@@ -1,8 +1,9 @@
 👋 **Hi, I’m Adrian**
-I’m a CS nerd, self-learning programmer and hobbyist game dev.  
+I’m a CS nerd, self-taught programmer and hobbyist game dev.  
   
   
-🌱 I'm currently learning Python, Django and frontend stack - HTML/CSS/JS. I wish to excel at both frontend and backend.  
+🌱 I'm currently learning Python, Django and frontend stack - HTML/CSS/JS/REACT. I wish to excel at both frontend and backend.  
+I mostly create scripts in Python or work on websites and webapps.  
   
 As a hobby I also experiment around in Unreal Engine 4. My mission is to create abstract, unusual, creative and fun games.  
 I mostly focus on creating low-spec games so everybody gets to play no matter their specs, and I'm also experimenting with retro graphics a lot because I think there's so much potential in them.  
