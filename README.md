@@ -2,7 +2,7 @@
 I’m a CS nerd, self-taught programmer and hobbyist game dev.  
   
   
-🌱 I'm currently learning Python, Django and frontend stack - HTML/CSS/JS/REACT. I wish to excel at both frontend and backend.  
+🌱 I'm currently learning Python, Django and frontend stack - HTML/CSS/JS. I wish to excel at both frontend and backend.  
 I mostly create scripts in Python or work on websites and webapps.  
   
 As a hobby I also experiment around in Unreal Engine 4. My mission is to create abstract, unusual, creative and fun games.  
