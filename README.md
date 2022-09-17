@@ -3,6 +3,7 @@ I’m a CS nerd, self-taught full stack programmer and hobbyist game dev.
   
   
 🌱 I mostly create scripts and apps in Python or work on websites and webapps. I wish to work in a professional setting and better my programming skills.     
+  
 Technologies I work in/use: Python, Django, SQL, PHP, JS, CSS, HTML, Wordpress, Linux, Git  
   
 I also experiment around in Unreal Engine 4. My mission is to create abstract, unusual and fun games.  
