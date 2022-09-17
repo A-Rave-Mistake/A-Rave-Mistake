@@ -2,7 +2,7 @@
 I’m a CS nerd, self-taught full stack programmer and hobbyist game dev.  
   
   
-🌱 I mostly create scripts and apps in Python or work on websites and webapps.    
+🌱 I mostly create scripts and apps in Python or work on websites and webapps. I wish to work in a professional setting.     
   
 I also experiment around in Unreal Engine 4. My mission is to create abstract, unusual and fun games.  
 I mostly focus on creating low-spec games so everybody gets to play no matter their specs and I believe there's so much potential in retro graphics that's yet to be explored.
