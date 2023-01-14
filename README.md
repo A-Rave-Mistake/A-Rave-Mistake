@@ -1,4 +1,4 @@
-👋 **Hi, I’m Adrian**
+👋 **Hi, I’m Adrian**  
 I’m a CS nerd, self-taught programmer and a hobbyist game dev.  
   
   
