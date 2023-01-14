@@ -1,13 +1,11 @@
 👋 **Hi, I’m Adrian**
-I’m a CS nerd, self-taught full stack programmer and hobbyist game dev.  
+I’m a CS nerd, self-taught programmer and a hobbyist game dev.  
   
   
-🌱 I mostly create scripts and apps in Python or work on websites and webapps. I wish to work in a professional setting and better my programming skills.     
+🌱 I mostly create scripts and apps in Python or work on websites and webapps. For game dev, I use Unreal Engine 4/5.    
   
-Technologies I work in/use: Python, Django, SQL, PHP, JS, CSS, HTML, Wordpress, Linux, Git  
-  
-I also experiment around in Unreal Engine 4. My mission is to create abstract, unusual and fun games.  
-I mostly focus on creating low-spec games so everybody gets to play no matter their specs and I believe there's so much potential in retro graphics that's yet to be explored.
+Technologies I work in/use: Python, JS, CSS, Wordpress, Git, Unreal Engine  
+
   
   
 <!---  
